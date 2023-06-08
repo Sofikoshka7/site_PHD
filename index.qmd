@@ -56,3 +56,5 @@ OSINT (Open Source INTelligence) --- разведка по открытым ис
 ![](images/Screenshot_23.png) \
 
 ![](images/Screenshot_24.png)
+
+проверочка работы для 8 лабы
